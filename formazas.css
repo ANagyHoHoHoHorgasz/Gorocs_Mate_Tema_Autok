@@ -1,0 +1,54 @@
+h1 {
+  text-align: center;
+  font-size: 60px;
+  font-weight: bolder;
+  color: whitesmoke;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bolder;
+  color: whitesmoke;
+}
+
+body {
+  max-width: 70%;
+  margin: auto;
+  background-image:  url(kepek/auto_background_14.jpg);
+  background-color: rgba(1, 1, 1, 0);
+  background-blend-mode:overlay;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: darken;
+  background-size: cover;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+  font-size: 20px;
+  padding-left: 1rem;
+  font-weight: bolder;
+  color: whitesmoke;
+}
+
+.bal img {
+  padding-right: 1rem;
+  width: 500px;
+  height: 230px;
+  float: left;
+  object-fit: cover;
+  border-radius: 25%;
+}
+
+.jobb img {
+  padding-left: 2rem;
+  width: 500px;
+  height: 230px;
+  float: right;
+  object-fit: cover;
+  border-radius: 25%;
+}
+
+a {
+  color: wheat;
+}
